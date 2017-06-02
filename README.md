@@ -16,7 +16,7 @@
 <img src="/res/image/MainActivity.png">
 
 # Terminal Console
-<img src="/c0hb1rd/SSHTool/blob/master/res/image/TerminalConsole.png?raw=true">
+<img src="/res/image/TerminalConsole.png">
 
 # SFTP Window
-<img src="/c0hb1rd/SSHTool/blob/master/res/image/SFTPWindow.png?raw=true">
+<img src="/res/image/SFTPWindow.png">
