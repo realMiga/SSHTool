@@ -13,10 +13,10 @@
 * Gui: python3 main.py
 
 # MainActivity
-<img src="http://10.0.0.33/c0hb1rd/SSHToolKit/raw/master/res/image/MainActivity.png">
+<img src="/c0hb1rd/SSHTool/blob/master/res/image/MainActivity.png?raw=true">
 
 # Terminal Console
-<img src="http://10.0.0.33/c0hb1rd/SSHToolKit/raw/master/res/image/TerminalConsole.png">
+<img src="/c0hb1rd/SSHTool/blob/master/res/image/TerminalConsole.png?raw=true">
 
 # SFTP Window
-<img src="http://10.0.0.33/c0hb1rd/SSHToolKit/raw/master/res/image/SFTPWindow.png">
+<img src="/c0hb1rd/SSHTool/blob/master/res/image/SFTPWindow.png?raw=true">
