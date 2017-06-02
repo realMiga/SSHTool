@@ -13,7 +13,7 @@
 * Gui: python3 main.py
 
 # MainActivity
-<img src="/c0hb1rd/SSHTool/blob/master/res/image/MainActivity.png">
+<img src="/res/image/MainActivity.png">
 
 # Terminal Console
 <img src="/c0hb1rd/SSHTool/blob/master/res/image/TerminalConsole.png?raw=true">
