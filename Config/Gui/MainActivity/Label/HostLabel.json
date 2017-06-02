@@ -1,0 +1,16 @@
+{
+  "text": "Host:",
+  "width": 341,
+  "height": 34,
+  "position": {"x": 1, "y": 37},
+  "shortcut": "Ctrl+L",
+  "event": "",
+  "css": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "#929292",
+    "font-size": "12px",
+    "padding-left": "10px",
+    "border": "0"
+  }
+}
+

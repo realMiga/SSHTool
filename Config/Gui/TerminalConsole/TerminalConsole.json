@@ -1,0 +1,11 @@
+{
+  "title": "Terminal Console",
+  "width": 800,
+  "height": 600,
+  "icon": "res/image/TerminalConsole/window.png",
+  "position": {"x": 1000, "y": 200},
+  "css": {
+    "background": "black",
+    "color": "green"
+  }
+}

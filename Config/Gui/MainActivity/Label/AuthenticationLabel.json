@@ -1,0 +1,14 @@
+{
+  "text": "Authentication",
+  "width": 320,
+  "height": 30,
+  "position": {"x": 10, "y": 5},
+  "css": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "#929292",
+    "font-size": "15px",
+    "font-weight": "bold",
+    "padding-left": "110px"
+  }
+}
+

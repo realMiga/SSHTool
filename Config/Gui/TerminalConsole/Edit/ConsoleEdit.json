@@ -1,0 +1,13 @@
+{
+  "text": "",
+  "width": 800,
+  "height": 600,
+  "position": {"x": 0, "y": 0},
+  "shortcut": "Ctrl+Return",
+  "event": "self.parent.run",
+  "css": {
+    "background": "black",
+    "color": "green",
+    "font-size": "16px"
+  }
+}

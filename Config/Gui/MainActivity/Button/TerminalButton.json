@@ -1,0 +1,18 @@
+{
+  "text": "Open Terminal console",
+  "on": "rgba(0, 0, 0)",
+  "off": "rgba(255, 255, 255, 0.3)",
+  "width": 160,
+  "height": 40,
+  "fontSize": 20,
+  "position": {"x": 200, "y": 0},
+  "status": "Terminal Console",
+  "css": {
+    "background": "rgba(0, 0, 0, 0.3)",
+    "color": "#cc3c5c",
+    "font-size": "12px",
+    "font-weight": "bold",
+    "border": "0"
+  },
+  "append": "QPushButton:hover {background: rgba(0, 0, 0, 0.8)}"
+}

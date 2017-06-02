@@ -1,0 +1,24 @@
+{
+  "title": "SSHToolkit",
+  "width": 800,
+  "height": 600,
+  "css": {
+    "background-image": "url(res/image/MainActivity/main_background.png)"
+  },
+  "menus": [
+    {
+      "name":"File",
+      "subMenus": [
+        {"text": "Exit", "shortcut": "Ctrl+Q", "status": "Exit Application", "event": "qApp.quit"}
+      ]
+    },
+    {
+      "name":"View",
+      "subMenus": [
+        {"text": "SFTP Window", "shortcut": "Ctrl+Alt+S", "status": "Open SFTP Window", "event": "self.newSFTP" },
+        {"text": "Terminal", "shortcut": "Ctrl+Alt+T", "status": "Open Terminal Console", "event": "self.newTerminal" },
+        {"text": "About", "shortcut": "", "status": "About Application", "event": "self.alertAbout" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "LeftBottomFrame",
+  "width": 383,
+  "height": 40,
+  "position": {"x": 0, "y": 35},
+  "css": {
+    "background": "rgba(255, 255, 255, 0.15)",
+    "color": "#929292",
+    "font-size": "15px",
+    "padding-left": "141.5px"
+  }
+}
+

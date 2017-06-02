@@ -1,0 +1,12 @@
+{
+  "title": "LeftMediumFrame",
+  "width": 343,
+  "height": 187,
+  "position": {"x": 17, "y": 223},
+  "css": {
+    "background": "url(res/image/MainActivity/box_bg.png)",
+    "border": "1px solid #681124",
+    "border-radius": "10px"
+  }
+}
+

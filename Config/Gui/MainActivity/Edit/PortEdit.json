@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "width": 196,
+  "height": 34,
+  "fontSize": 20,
+  "position": {"x": 50, "y": 73},
+  "shortcut": "Ctrl+L",
+  "event": "",
+  "css": {
+    "background": "rgba(0, 0, 0)",
+    "opacity": 0.1,
+    "color": "white",
+    "font-size": "12px",
+    "border": "0",
+    "border-bottom": "1xp solid white"
+  }
+}

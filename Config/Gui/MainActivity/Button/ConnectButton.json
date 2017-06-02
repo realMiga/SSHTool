@@ -1,0 +1,15 @@
+{
+  "on": "res/image/MainActivity/login_btn.png",
+  "off": "res/image/MainActivity/logout_btn.png",
+  "width": 196,
+  "height": 70,
+  "fontSize": 20,
+  "status": "Connect to host",
+  "position": {"x": 67, "y": 40},
+  "shortcut": "Ctrl+L",
+  "event": "",
+  "css": {
+    "color": "white",
+    "font-size": "20px"
+  }
+}

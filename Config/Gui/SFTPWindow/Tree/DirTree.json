@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "width": 810,
+  "height": 800,
+  "position": {"x": 0, "y": 0},
+  "headerLabel": ["Name", "Owner", "Group", "Length", "Status"],
+  "columnWidths":[530, 60, 60, 60, 80],
+  "root": "/",
+  "css": {
+    "background": "url(res/image/MainActivity/main_background.png)",
+    "color": "black"
+  }
+}

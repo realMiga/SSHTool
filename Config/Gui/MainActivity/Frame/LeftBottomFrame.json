@@ -1,0 +1,12 @@
+{
+  "title": "LeftBottomFrame",
+  "width": 343,
+  "height": 121,
+  "position": {"x": 17, "y": 448},
+  "css": {
+    "background": "url(res/image/MainActivity/box_bg.png)",
+    "border": "1px solid #681124",
+    "border-radius": "10px"
+  }
+}
+

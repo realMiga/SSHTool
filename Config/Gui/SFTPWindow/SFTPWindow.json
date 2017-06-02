@@ -1,0 +1,11 @@
+{
+  "title": "SFTP Window",
+  "width": 810,
+  "height": 800,
+  "icon": "res/image/SFTPWindow/window.png",
+  "position": {"x": 200, "y": 200},
+  "css": {
+    "background": "white",
+    "color": "black"
+  }
+}
