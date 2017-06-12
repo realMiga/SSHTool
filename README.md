@@ -1,5 +1,5 @@
 # Point
-* The GUI Design By My Girl Friend：）
+* The GUI is designed by my girlfriend：）
 # Status
 * SSH Finish
 * Terminal Console Test Version
